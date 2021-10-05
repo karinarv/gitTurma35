@@ -1,4 +1,4 @@
-package br.com.generation; 
+package br.com.generation.lista02; 
 import javax.swing.JOptionPane;
 
 public class MaiorNumero{

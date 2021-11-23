@@ -11,39 +11,39 @@ public class CalculadoraBasica {
 		double numero1, numero2, resultado = 0.0;
 		char operacao;
 		
-		System.out.println("Digite o primeiro número:");
+		System.out.println("Digite o primeiro nÃºmero:");
 		numero1 = ler.nextDouble();
 		
-		System.out.println("Digite a operação: ");
+		System.out.println("Digite a operaÃ§Ã£o: ");
 		operacao = ler.next().charAt(0);
 		
-		System.out.println("Digite o segundo número:");
+		System.out.println("Digite o segundo nÃºmero:");
 		numero2 = ler.nextDouble();
 
 		if(operacao == '+') {
       
 			resultado = numero1 + numero2;
-         System.out.println("Resultado: " + resultado);
+         		System.out.println("Resultado: " + resultado);
          
 		}else if(operacao == '-') {
       
 			resultado = numero1 - numero2;
-         System.out.println("Resultado: " + resultado);
+         		System.out.println("Resultado: " + resultado);
          
 		}
-      else if(operacao == 'x' || operacao == '*') {
+     		else if(operacao == 'x' || operacao == '*') {
       
 			resultado = numero1 * numero2;
-         System.out.println("Resultado: " + resultado);
+         		System.out.println("Resultado: " + resultado);
          
 		}else if(operacao == '/') {
       
 			resultado = numero1 / numero2;
-         System.out.println("Resultado: " + resultado);
+         		System.out.println("Resultado: " + resultado);
          
 		}else{
-         System.out.println("Operação Inválida. Digite um sinal de (+| - | x | /) ");
-      }
+         		System.out.println("OperaÃ§Ã£o InvÃ¡lida. Digite um sinal de (+| - | x | /) ");
+      		}
 		
 	}
 

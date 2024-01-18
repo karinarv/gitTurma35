@@ -1,6 +1,6 @@
 # Projetos Java - Desenvolvimento de Habilidades Profissionais 🚀
 
-Bem-vindo ao nosso repositório Java, onde você encontrará uma variedade de projetos, desde os fundamentos até desafios avançados. Aqui estão alguns projetos:
+Bem-vindo ao meu repositório Java, onde você encontrará uma variedade de projetos, desde os fundamentos até desafios avançados. Aqui estão alguns projetos:
 
 1. **Multa do Tomate:**
    - Cálculo de multa com base no peso do tomate.
